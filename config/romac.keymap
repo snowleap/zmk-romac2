@@ -20,9 +20,9 @@
 // | MO(1)  |  0  |  .  |
 // ----------------------
             bindings = <
-    &kp 0 &kp HOME &kp PGUP 
+    &cp MPLY &kp HOME &kp PGUP 
     &kp DEL &kp END &kp PGDN 
-    &kp P &kp UARW &kp N 
+    &cp VOLD &kp UARW &cp VOLU 
     &kp LARW     &kp DARW &kp RARW 
             >;
         };
