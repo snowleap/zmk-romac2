@@ -22,8 +22,8 @@
             bindings = <
     &kp 0 &kp HOME &kp PGUP 
     &kp DEL &kp END &kp PGDN 
-    &kp P &kp UP &kp N 
-    &kp LEFT     &kp DOWN &kp RIGHT 
+    &kp P &kp UARW &kp N 
+    &kp LARW     &kp DARW &kp RARW 
             >;
         };
 
