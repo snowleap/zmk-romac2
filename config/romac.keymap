@@ -20,9 +20,9 @@
 // | MO(1)  |  0  |  .  |
 // ----------------------
             bindings = <
-    &cp MEDIA_PLAY_PAUSE &kp HOME &kp PGUP 
+    &kp 0 &kp HOME &kp PGUP 
     &kp DEL &kp END &kp PGDN 
-    &cp MEDIA_PREV_TRACK &kp UP &cp MEDIA_NEXT_TRACK 
+    &kp P &kp UP &kp N 
     &kp LEFT     &kp DOWN &kp RIGHT 
             >;
         };
