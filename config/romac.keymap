@@ -20,10 +20,10 @@
 // | MO(1)  |  0  |  .  |
 // ----------------------
             bindings = <
-    &kp NUM_7 &kp NUM_8 &kp NUM_9 
-    &kp NUM_4 &kp NUM_5 &kp NUM_6 
-    &kp NUM_1 &kp NUM_2 &kp NUM_3 
-    &mo 1     &kp NUM_0 &kp DOT 
+    &kp MEDIA_PLAY_PAUSE &kp HOME &kp PGUP 
+    &kp DEL &kp END &kp PGDN 
+    &kp MEDIA_PREV_TRACK &kp UP &kp MEDIA_NEXT_TRACK 
+    &kp LEFT     &kp DOWN &kp RIGHT 
             >;
         };
 
